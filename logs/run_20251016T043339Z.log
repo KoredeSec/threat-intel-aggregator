@@ -1,0 +1,12 @@
+2025-10-16 05:33:39,142 INFO ⚡ Starting aggregator run...
+2025-10-16 05:33:41,341 INFO AlienVault: fetched 57 indicators
+2025-10-16 05:33:42,574 INFO FeodoTracker: fetched 3 indicators
+2025-10-16 05:33:43,969 INFO AbuseIPDB: fetched 50 indicators
+2025-10-16 05:33:43,972 INFO Starting geolocation for 50 IPs...
+2025-10-16 05:34:33,989 INFO Geolocation completed.
+2025-10-16 05:34:34,005 INFO Saved 50 unique indicators to threat_feed.csv
+2025-10-16 05:34:34,007 INFO New indicators found: 0
+2025-10-16 05:34:34,043 INFO Saved interactive map to visuals/threat_map_top10.html
+2025-10-16 05:34:38,737 INFO Slack alert sent.
+2025-10-16 05:34:39,917 WARNING Email send error: 'ascii' codec can't encode character '\xa0' in position 37: ordinal not in range(128)
+2025-10-16 05:34:39,918 INFO ✅ Run complete.

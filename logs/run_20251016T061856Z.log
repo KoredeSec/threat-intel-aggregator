@@ -1,0 +1,13 @@
+2025-10-16 07:18:56,691 INFO ⚡ Starting aggregator run...
+2025-10-16 07:19:26,745 WARNING AlienVault fetch error: HTTPSConnectionPool(host='otx.alienvault.com', port=443): Max retries exceeded with url: /api/v1/pulses/subscribed (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x776bb69f4ef0>: Failed to resolve 'otx.alienvault.com' ([Errno -3] Temporary failure in name resolution)"))
+2025-10-16 07:19:26,746 INFO AlienVault: fetched 0 indicators
+2025-10-16 07:19:28,968 INFO FeodoTracker: fetched 3 indicators
+2025-10-16 07:19:30,770 INFO AbuseIPDB: fetched 50 indicators
+2025-10-16 07:19:30,785 INFO Starting geolocation for 50 IPs...
+2025-10-16 07:20:47,091 INFO Geolocation completed.
+2025-10-16 07:20:47,120 INFO Saved 50 unique indicators to threat_feed.csv
+2025-10-16 07:20:47,122 INFO New indicators found: 50
+2025-10-16 07:20:47,609 INFO Saved interactive map to visuals/threat_map_top10.html
+2025-10-16 07:20:48,931 INFO Slack alert sent.
+2025-10-16 07:20:52,191 INFO Email alert sent.
+2025-10-16 07:20:52,191 INFO ✅ Run complete.

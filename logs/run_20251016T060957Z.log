@@ -1,0 +1,14 @@
+2025-10-16 07:09:57,291 INFO ⚡ Starting aggregator run...
+2025-10-16 07:10:00,444 INFO AlienVault: fetched 57 indicators
+2025-10-16 07:10:02,265 INFO FeodoTracker: fetched 3 indicators
+2025-10-16 07:10:03,184 WARNING AbuseIPDB fetch error: 429 Client Error: Too Many Requests for url: https://api.abuseipdb.com/api/v2/blacklist
+2025-10-16 07:10:03,185 INFO AbuseIPDB: fetched 0 indicators
+2025-10-16 07:10:03,192 INFO Starting geolocation for 0 IPs...
+2025-10-16 07:10:03,194 INFO Geolocation completed.
+2025-10-16 07:10:03,198 INFO No indicators to save. Adding fallback test data.
+2025-10-16 07:10:03,217 INFO Saved 3 unique indicators to threat_feed.csv
+2025-10-16 07:10:03,219 INFO New indicators found: 3
+2025-10-16 07:10:03,222 INFO No data to map. Skipping map creation.
+2025-10-16 07:10:04,435 INFO Slack alert sent.
+2025-10-16 07:10:07,721 INFO Email alert sent.
+2025-10-16 07:10:07,722 INFO ✅ Run complete.

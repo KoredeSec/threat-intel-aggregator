@@ -1,0 +1,12 @@
+2025-10-16 05:39:07,431 INFO ⚡ Starting aggregator run...
+2025-10-16 05:39:09,587 INFO AlienVault: fetched 57 indicators
+2025-10-16 05:39:11,900 INFO FeodoTracker: fetched 3 indicators
+2025-10-16 05:39:13,170 INFO AbuseIPDB: fetched 50 indicators
+2025-10-16 05:39:13,173 INFO Starting geolocation for 50 IPs...
+2025-10-16 05:40:14,590 INFO Geolocation completed.
+2025-10-16 05:40:14,616 INFO Saved 50 unique indicators to threat_feed.csv
+2025-10-16 05:40:14,621 INFO New indicators found: 0
+2025-10-16 05:40:14,730 INFO Saved interactive map to visuals/threat_map_top10.html
+2025-10-16 05:40:23,936 INFO Slack alert sent.
+2025-10-16 05:40:29,099 INFO Email alert sent.
+2025-10-16 05:40:29,099 INFO ✅ Run complete.

@@ -1,0 +1,13 @@
+2025-10-16 05:23:17,306 INFO ⚡ Starting aggregator run...
+2025-10-16 05:23:19,586 INFO AlienVault: fetched 57 indicators
+2025-10-16 05:23:20,763 INFO FeodoTracker: fetched 3 indicators
+2025-10-16 05:23:20,766 WARNING No AbuseIPDB key set; skipping AbuseIPDB fetch.
+2025-10-16 05:23:20,768 INFO Starting geolocation for 0 IPs...
+2025-10-16 05:23:20,768 INFO Geolocation completed.
+2025-10-16 05:23:20,773 INFO No indicators to save. Adding fallback test data.
+2025-10-16 05:23:20,787 INFO Saved 3 unique indicators to threat_feed.csv
+2025-10-16 05:23:20,789 INFO New indicators found: 3
+2025-10-16 05:23:20,791 INFO No data to map. Skipping map creation.
+2025-10-16 05:23:21,584 WARNING Slack send error: 404 Client Error: Not Found for url: https://hooks.slack.com/services/T03XXX/B05YYY/ZZZabcd123
+2025-10-16 05:23:23,356 WARNING Email send error: 'ascii' codec can't encode character '\xa0' in position 37: ordinal not in range(128)
+2025-10-16 05:23:23,357 INFO ✅ Run complete.

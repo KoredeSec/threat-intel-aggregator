@@ -12,9 +12,6 @@ env/
 threat-intel/lib/
 threat-intel/pyvenv.cfg
 
-# Logs and outputs
-logs/
-visuals/
 
 # IDE / editor configs
 .vscode/
