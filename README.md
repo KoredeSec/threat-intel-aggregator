@@ -172,7 +172,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 * [Safety - Python Dependency Checking](https://pyup.io/safety/)
 * [Pip-Audit](https://pypi.org/project/pip-audit/)
 
-```
+---
 ## Author
 **Ibrahim Yusuf**  
 Cybersecurity Student | NACSS_UNIOSUN President | Cybersecurity and Cloud Enthusiast
