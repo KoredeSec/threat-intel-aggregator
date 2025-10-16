@@ -1,0 +1,19 @@
+Safety 3.6.2 scanning /home/tory/threat-intel-aggregator
+2025-10-16 06:22:33 UTC
+
+Account: yusufibrahimakanji741@gmail.com 
+ Environment: Stage.development
+ Scan policy: None, using Safety CLI default policies
+
+Python detected. Found 1 Python requirement file, 1 Python environment and 1 Python pyproject.toml file
+
+✅ requirements.txt: No issues found.
+
+✅ threat-intel/pyvenv.cfg: No issues found.
+
+✅ threat-intel/lib/python3.12/site-packages/pandas/pyproject.toml: No issues found.
+
+Tested 387 dependencies for security issues using default Safety CLI policies
+16 vulnerabilities found, 16 ignored due to policy.
+0 fixes suggested, resolving 0 vulnerabilities.
+

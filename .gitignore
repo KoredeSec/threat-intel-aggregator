@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+env/
+*.egg-info/
+
+# Virtual environment
+threat-intel/lib/
+threat-intel/pyvenv.cfg
+
+# Logs and outputs
+logs/
+visuals/
+
+# IDE / editor configs
+.vscode/
+.idea/
+*.swp
